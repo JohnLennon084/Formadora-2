@@ -1,0 +1,7 @@
+{
+  "name": "carnaval-brasil",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
