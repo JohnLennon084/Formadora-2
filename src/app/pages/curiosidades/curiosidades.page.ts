@@ -5,8 +5,9 @@ import { CommonModule } from '@angular/common';
 
 @Component({
   standalone: true,
-  selector: 'app-home',
+  selector: 'app-curiosidades',
   imports: [IonicModule, RouterModule, CommonModule],
-  templateUrl: './home.page.html',
+  templateUrl: './curiosidades.page.html',
 })
-export class HomePage {} 
+export class CuriosidadesPage {}
+
